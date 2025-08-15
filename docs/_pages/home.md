@@ -2,6 +2,7 @@
 title: 'Storytell: "New Beginnings"'
 permalink: /
 toc: true
+hidden: true
 ---
 
 You know... for stories!
