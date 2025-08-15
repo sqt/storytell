@@ -15,7 +15,7 @@ Join us at for a night of heart-felt amateur short-form storytelling.
 Saturday, October 4th - 8:00 - 10:30PM
 
 ## Where is it?
-{% google_map %}
+{% raw %} {% google_map %} {% endraw %}
 ```
 The Simpson Home
 28 Laurelhill Place
