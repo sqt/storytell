@@ -2,11 +2,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-relative-links
-  - jekyll-maps
+#   - jekyll-maps
 
-maps:
-  google:
-    api_key: AIzaSyDFq6xPz0Bo7wc7ZnY4xic_cNUZjtn4uEM
+# maps:
+#   google:
+#     api_key: ${{ YOUR_KEY_HERE }
 
 relative_links:
   enabled: true
