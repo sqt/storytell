@@ -4,7 +4,7 @@ permalink: /
 toc: true
 hidden: true
 header:
-  image: /assets/images/splash.jpg
+  image: /assets/images/splash.png
 ---
 
 Join us at for a night of heart-felt amateur short-form storytelling.
