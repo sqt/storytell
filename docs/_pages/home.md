@@ -1,5 +1,5 @@
 ---
-title: Storytell: "New Beginnings"
+title: Storytell\: "New Beginnings"
 permalink: /
 toc: true
 ---
