@@ -3,10 +3,6 @@ title: 'Storytell: "New Beginnings"'
 permalink: /
 toc: true
 hidden: true
-location:
-  title: The Simpson Home
-  latitude: 51.5285582
-  longitude: -0.2416807
 ---
 
 Join us at for a night of heart-felt amateur short-form storytelling.
@@ -15,7 +11,7 @@ Join us at for a night of heart-felt amateur short-form storytelling.
 Saturday, October 4th - 8:00 - 10:30PM
 
 ## Where is it?
-{% raw %} {% google_map %} {% endraw %}
+{% google_map latitude="56.10968" longitude="-3.94481" marker_title="The Simpson Home"
 ```
 The Simpson Home
 28 Laurelhill Place
