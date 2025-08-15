@@ -43,4 +43,4 @@ Stand up and tell us a story, based on true events from your own life, roughly 1
 Be respectful of the storytellers. They have taken time to think about and practice their stories in order to share them with you.
 
 ## Potential Storytellers
-If you're interested in telling a story, please also read through the [[storytellers]] page.
+If you're interested in telling a story, please also read through the [Potential Storytellers]({{ "/storytellers/" | relative_url }}) page.
