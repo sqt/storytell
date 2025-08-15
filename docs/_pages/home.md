@@ -1,16 +1,16 @@
 ---
+title: Storytell: "New Beginnings"
 permalink: /
 toc: true
 ---
 
-# Storytell: "New Beginnings"
 You know... for stories!
 
-## Event
+# Event
 October 4th.
 
-### What is it?
+## What is it?
 It's where we tell stories.
 
-## Potential Storytellers
+# Potential Storytellers
 Please tell a story.
