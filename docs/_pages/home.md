@@ -3,6 +3,8 @@ title: 'Storytell: "New Beginnings"'
 permalink: /
 toc: true
 hidden: true
+header:
+  image: /assets/images/splash.jpg
 ---
 
 Join us at for a night of heart-felt amateur short-form storytelling.
