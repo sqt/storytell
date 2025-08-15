@@ -4,6 +4,7 @@ permalink: /
 toc: true
 hidden: true
 location:
+  title: The Simpson Home
   latitude: 51.5285582
   longitude: -0.2416807
 ---
