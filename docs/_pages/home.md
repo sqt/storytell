@@ -1,4 +1,5 @@
 ---
+permalink: /
 toc: true
 ---
 
