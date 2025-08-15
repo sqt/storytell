@@ -12,6 +12,8 @@ include:
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 
+title: Storytell
+
 defaults:
   # _pages
   - scope:
