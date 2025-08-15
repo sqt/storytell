@@ -11,7 +11,7 @@ Join us at for a night of heart-felt amateur short-form storytelling.
 Saturday, October 4th - 8:00 - 10:30PM
 
 ## Where is it?
-{% google_map latitude="56.10968" longitude="-3.94481" marker_title="The Simpson Home"
+{% google_map latitude="56.10968" longitude="-3.94481" marker_title="The Simpson Home" %}
 ```
 The Simpson Home
 28 Laurelhill Place
