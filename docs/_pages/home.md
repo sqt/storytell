@@ -3,6 +3,9 @@ title: 'Storytell: "New Beginnings"'
 permalink: /
 toc: true
 hidden: true
+location:
+  latitude: 51.5285582
+  longitude: -0.2416807
 ---
 
 Join us at for a night of heart-felt amateur short-form storytelling.
@@ -11,9 +14,12 @@ Join us at for a night of heart-felt amateur short-form storytelling.
 Saturday, October 4th - 8:00 - 10:30PM
 
 ## Where is it?
+{% google_map %}
+```
 The Simpson Home
 28 Laurelhill Place
 FK8 2JJ
+```
 
 ## What is it?
 Everyone has stories worth sharing... and everyone appreciates an engaging story! But how often are we able to take the time and really listen to the stories that others people have to share?
