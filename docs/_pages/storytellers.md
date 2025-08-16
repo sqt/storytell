@@ -6,7 +6,7 @@ header:
 ---
 
 ## Examples
-Here's a pretty good [example](https://themoth.org/podcast/cycling) from _The Moth Podcast_ with a theme of _Cycling_.
+Here's a pretty good [example](https://themoth.org/podcast/cycling) of three stories from _The Moth Podcast_ with a theme of _Cycling_.
 
 ## The Basics
 - Based on a true story from your own life.
