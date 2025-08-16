@@ -10,17 +10,15 @@ header:
 Join us at for a night of heart-felt amateur short-form storytelling.
 
 ## When is it?
-Saturday, October 4th
-- Doors open 7:30pm
-- Stories start 8:00pm
-- End 10:00pm
+Saturday, October 4th\
+Doors open: 7:30pm\
+Stories start: 8:00pm\
+End: 10:00pm
 
 ## Where is it?
-```
-The Simpson Home
-28 Laurelhill Place
+The Simpson Home\
+28 Laurelhill Place\
 FK8 2JJ
-```
 
 ## What is it?
 Everyone has stories worth sharing... and everyone appreciates an engaging story! But how often are we able to take the time and really listen to the stories that others people have to share?
