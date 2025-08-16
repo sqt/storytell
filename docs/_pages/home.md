@@ -22,7 +22,7 @@ FK8 2JJ
 
 ## What is it?
 Everyone has stories worth sharing... and everyone appreciates an engaging story! But how often are we able to take the time and really listen to the stories that others people have to share?
-At *Storytell: "New Beginnings"* we'll carve out a bit of time and space to hear some of the true stories from other peoples' lives. And we'll do it with drinks, snacks, and a bit of socializing!
+At *Storytell* we'll carve out a bit of time and space to hear some true stories from other peoples' lives. This time the theme is _"New Beginnings"_. And we'll do it with drinks, snacks, and a bit of socializing!
 
 ## Questions & Answers
 
