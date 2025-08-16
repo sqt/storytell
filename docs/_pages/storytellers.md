@@ -6,7 +6,7 @@ header:
 ---
 
 ## Examples
-Here's a pretty good example of three slightly-too-short stories from the Moth Podcast (with a theme of Cycling): https://themoth.org/podcast/cycling (click "Listen Now" for their web player).
+Here's a pretty good [example](https://themoth.org/podcast/cycling) from the Moth Podcast with a theme of _Cycling_.
 
 ## Anecdotes vs Stories
 It's not a universal distinction but, for the purposes of good storytelling, it's helpful to distinguish between anecdotes and stories:
