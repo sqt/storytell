@@ -6,7 +6,7 @@ header:
   image: /assets/images/splash.png
 ---
 
-Join us at for a night of heart-felt amateur short-form storytelling.
+Join us at for a night of heartfelt amateur storytelling.
 
 ## When is it?
 **Saturday, October 4th**\
