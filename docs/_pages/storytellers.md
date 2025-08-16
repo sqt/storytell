@@ -6,12 +6,14 @@ header:
 ---
 
 ## Examples
-Here's a pretty good [example](https://themoth.org/podcast/cycling) from the Moth Podcast with a theme of _Cycling_.
+Here's a pretty good [example](https://themoth.org/podcast/cycling) from _The Moth Podcast_ with a theme of _Cycling_.
 
 ## Anecdotes vs Stories
 It's not a universal distinction but, for the purposes of good storytelling, it's helpful to distinguish between anecdotes and stories:
-- Anecdotes are simply a "thing that happened".
+- Anecdotes are simply a "thing that happened".\
+  "The mug fell off the counter, hit the floor, and shattered into a hundred pieces."
 - Stories explain why the "thing that happened" was meaningful to the storyteller.
+  "Because I wasn't paying enough attention, because I somehow _never_ pay enough attention, I accidentally knocked the mug off the counter. This was the mug that my favorite roommate had bought me for my birthday before moving across the ocean. And before I could catch it (because I definitely tried to catch it!), it hit the floor and shattered into a hundred pieces."
 
 ## Sharpening Questions
 1. Was there a specific memory or moment that shifted something significant for you (e.g. the way you understood how people or families worked, how you understood yourself, the world, etc.)
