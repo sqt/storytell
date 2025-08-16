@@ -8,6 +8,12 @@ header:
 ## Examples
 Here's a pretty good [example](https://themoth.org/podcast/cycling) from _The Moth Podcast_ with a theme of _Cycling_.
 
+## The Basics
+- Based on a true story from your own life.
+- Roughly fits the theme of "New Beginnings".
+- 10 minutes in length.
+- Practiced enough to be told without notes.
+
 ## Anecdotes vs Stories
 It's not a universal distinction but, for the purposes of good storytelling, it's helpful to distinguish between anecdotes and stories:
 - Anecdotes are simply a "thing that happened".\
