@@ -1,7 +1,6 @@
 ---
 title: 'Storytell: "New Beginnings"'
 permalink: /
-toc: true
 hidden: true
 header:
   image: /assets/images/splash.png
