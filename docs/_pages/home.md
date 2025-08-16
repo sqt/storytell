@@ -10,7 +10,7 @@ header:
 Join us at for a night of heart-felt amateur short-form storytelling.
 
 ## When is it?
-### Saturday, October 4th
+**Saturday, October 4th**\
 Doors open: 7:30pm\
 Stories start: 8:00pm\
 End: 10:00pm
