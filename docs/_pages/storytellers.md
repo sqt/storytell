@@ -6,11 +6,14 @@ header:
 ---
 
 ## Examples
-Here's a pretty good [example](https://themoth.org/podcast/cycling) of three stories from _The Moth Podcast_ with a theme of _Cycling_.
+Here are some pretty good examples of stories from [The Moth](https://themoth.org) (except none of them are 10 minutes!):
+[Dr. Mary-Claire King at the World Science Festival](https://www.youtube.com/watch?v=tOP5pUIYhv4) (12 minutes)
+[Victim's Impact](https://themoth.org/stories/victims-impact) (14 minutes)
+[Cycling](https://themoth.org/podcast/cycling) (3 stories by three different people that all have a theme of _Cycling_, 26 minutes total).
 
 ## The Basics
 - Based on a true story from your own life.
-- Roughly fits the theme of "New Beginnings".
+- Roughly fits the evening's _theme_.
 - 10 minutes in length.
 - Practiced enough to be told without notes.
 
