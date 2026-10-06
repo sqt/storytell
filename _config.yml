@@ -1,0 +1,34 @@
+source: docs
+destination: _site
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - _pages
+
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+    - slash-div
+    - if-function
+
+theme: minimal-mistakes-jekyll
+
+title: Storytell
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

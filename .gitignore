@@ -1,0 +1,8 @@
+.bundle/
+.bundle-user/
+.codex
+.jekyll-metadata
+.jekyll-cache/
+.sass-cache/
+_site/
+vendor/
