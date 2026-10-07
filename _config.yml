@@ -24,6 +24,9 @@ sass:
 theme: minimal-mistakes-jekyll
 
 title: Storytell
+url: "https://sqt.github.io"
+og_image: /assets/images/social-preview.jpg
+og_image_alt: "A microphone ready for an evening of storytelling."
 locale: en-GB
 description: "An evening of true stories, generous listening, and good company."
 next_event: far_from_home
@@ -42,6 +45,7 @@ defaults:
       author_profile: false
       header:
         image: /assets/images/splash.png
+        og_image: /assets/images/social-preview.jpg
   - scope:
       path: ""
       type: events
@@ -50,3 +54,4 @@ defaults:
       author_profile: false
       header:
         image: /assets/images/splash.png
+        og_image: /assets/images/social-preview.jpg
