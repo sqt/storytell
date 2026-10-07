@@ -13,8 +13,11 @@ venue_address: |-
   Cambuskenneth
   Stirling
   FK9 5NL
+venue_details: >-
+  A note about parking: It may be easier to park in Riverside (along Riverside
+  Drive or Abbey Road) and walk across the footbridge to Cambuskenneth.
 teaser: >-
-  A journey, a move, a place where you felt out of place, or somewhere unexpected
+  A journey, a move, a situation where you felt out of place, or somewhere unexpected
   where you found a sense of belonging. What does "Far From Home" bring to mind
   for you?
 ---

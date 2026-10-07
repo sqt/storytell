@@ -18,6 +18,10 @@
 <h2>Where</h2>
 <p>{{ event.venue | escape }}{% if event.venue_address %}<br>
 {{ event.venue_address | escape | newline_to_br }}{% endif %}</p>
+{% if event.venue_details %}
+<h3>Venue details</h3>
+{{ event.venue_details | markdownify }}
+{% endif %}
 {% if event.ticket_url and event.status != "past" %}
 <h2>Reserve a seat</h2>
 <p>Tickets are free, but seats are limited. Please reserve your seat before coming along.</p>

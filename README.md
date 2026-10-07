@@ -47,6 +47,15 @@ An optional `teaser` in the front matter introduces the theme on both the
 event page and the homepage when that event is selected. The short storyteller
 invitation lives on the homepage and is shared across upcoming events.
 An optional `ticket_url` adds a free-seat reservation section to both pages.
+An optional `venue_details` adds Markdown below the venue address for parking,
+accessibility, entrances, or other arrival information. For example:
+
+```yaml
+venue_details: |-
+  Add parking directions here once confirmed.
+
+  Add any entrance or accessibility information here.
+```
 
 To add an event, copy an existing event file, give it a unique filename and
 `event_id`, and update its title, date, times, and venue. Set `status: upcoming`
