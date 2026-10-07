@@ -1,48 +1,21 @@
 ---
-title: 'Storytell: "Unexpected Detours"'
+title: "Next Event"
+layout: next-event
 permalink: /
 hidden: true
-header:
-  image: /assets/images/splash.png
 ---
 
-Join us at for a night of heartfelt amateur storytelling.
-
-## When is it?
-**Saturday, February 28th**\
-Doors open: 7:30pm\
-Stories start: 8:00pm\
-End: 10:00pm
-
-## Where is it?
-The Simpson Home
-
-## What is it?
-Everyone has stories worth sharing... and everyone appreciates an engaging story! But how often are we able to take the time and really listen to the stories that other people have to share?
-At *Storytell* we'll carve out a bit of time and space to hear some true stories from other peoples' lives. This time the theme is _"Unexpected Detours"_. And we'll do it with drinks, snacks, and a bit of socialising!
-
-## Questions & Answers
-
-### What kind of stories should I expect?
-That's mostly up to each storyteller, but expect a story based on true events from that person's life, approximately 10 minutes long. For more information, see the section on "What's expected from a storyteller?"
-
-### Will there be a common theme to the stories?
-Yes. The stories will be _loosely_ tied to the theme of "Unexpected Detours"
-
-### How many stories will there be?
-We hope to have six storytellers, giving us about an hour's worth of stories in total. We'll have an interval in the middle for snacks & chat.
-
-### Is there an age limit?
-Yes. We're limiting it to 13+, as some stories could potentially have mature themes.
-
-### Can I be a storyteller?
-Absolutely! Anyone can tell a story. Have a read through "What's expected from a storyteller?" and then send us a brief "pitch" for your story either via text, WhatsApp, or email. The (loose) theme of the evening will be "Unexpected Detours" so try to choose and/or frame your story idea accordingly. We will want to meet up with each of the storytellers at least once, in advance of the storytelling night, to "workshop" their story with them.
-
-### What's expected from a storyteller?
-Storytellers are expected to stand up in front of a bunch of folk (friends and maybe even strangers!) and tell a story based on true events from their own life. The story should be about 10 minutes in length and well-practiced enough to be told without notes in that time. See [Potential Storytellers]({{ "/storytellers/" | relative_url }}) for more information on telling stories.
-
-### What's expected of a listener?
-An attitude of generosity and curiosity. :-)
-
-## Potential Storytellers
-If you're interested in telling a story, please read through the [Potential Storytellers]({{ "/storytellers/" | relative_url }}) page.
+{% assign next_event = site.events | where: "event_id", site.next_event | first %}
+{% if next_event %}
+{% include event-teaser.html event=next_event %}
+{% include storytell-intro.html %}
+{% include event-details.html event=next_event %}
+{{ next_event.content | markdownify }}
+<h2>Can you tell a story?</h2>
+<p>We're looking for true stories from your own life, loosely connected to the theme. Funny, surprising, moving, or quietly memorable: there's room for all of them.</p>
+<p>You don't need stage experience or a polished draft to get started. If a memory comes to mind, send us a few sentences by text or WhatsApp. We'll meet with each storyteller before the evening to explore their idea and help shape it for Storytell. After that, we can offer more feedback as needed. You'll practise telling your story so you're ready to share it without notes on the night.</p>
+<p><a href="{{ "/storytellers/" | relative_url }}">Find out more about telling a story.</a></p>
+<p><a href="{{ next_event.url | relative_url }}">View the event page.</a></p>
+{% else %}
+<p>Details of the next event will be announced here.</p>
+{% endif %}

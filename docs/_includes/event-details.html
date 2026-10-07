@@ -1,0 +1,25 @@
+{% assign event = include.event %}
+{% if event.status == "past" %}
+<p class="notice">This event has already happened.</p>
+{% endif %}
+<h2>When</h2>
+<p><strong><time datetime="{{ event.event_date | escape }}">{{ event.event_date | date: "%A, %-d %B %Y" }}</time></strong></p>
+  {% if event.doors_open or event.starts_at or event.ends_at %}
+<h3>The evening</h3>
+<ul>
+  {% if event.doors_open %}<li><strong>{{ event.doors_open | escape }}</strong>: Doors open</li>{% endif %}
+  {% if event.starts_at %}<li><strong>{{ event.starts_at | escape }}</strong>: Stories start</li>{% endif %}
+  {% if event.ends_at %}<li><strong>{{ event.ends_at | escape }}</strong>: End</li>{% endif %}
+</ul>
+  {% endif %}
+  {% unless event.doors_open or event.starts_at or event.ends_at %}
+<p>Times to be confirmed.</p>
+  {% endunless %}
+<h2>Where</h2>
+<p>{{ event.venue | escape }}{% if event.venue_address %}<br>
+{{ event.venue_address | escape | newline_to_br }}{% endif %}</p>
+{% if event.ticket_url and event.status != "past" %}
+<h2>Reserve a seat</h2>
+<p>Tickets are free, but seats are limited. Please reserve your seat before coming along.</p>
+<p><a href="{{ event.ticket_url | escape }}" class="btn btn--primary">Reserve your free seat</a></p>
+{% endif %}

@@ -1,0 +1,17 @@
+---
+title: "Past Events"
+permalink: /past-events/
+---
+{% assign past_events = site.events | where: "status", "past" | sort: "event_date" | reverse %}
+{% if past_events.size > 0 %}
+<ul>
+  {% for event in past_events %}
+  <li>
+    <a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
+    (<time datetime="{{ event.event_date | escape }}">{{ event.event_date | date: "%-d %B %Y" }}</time>)
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>Past events will appear here after our first evening.</p>
+{% endif %}

@@ -1,5 +1,9 @@
 main:
-  - title: "General"
+  - title: "Next Event"
     url: /
-  - title: "Tell A Story"
+  - title: "About Storytell"
+    url: /about/
+  - title: "Tell a Story"
     url: /storytellers/
+  - title: "Past Events"
+    url: /past-events/
